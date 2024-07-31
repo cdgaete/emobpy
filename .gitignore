@@ -120,3 +120,6 @@ venv.bak/
 test.ipynb
 job/
 log/
+
+repoai_token_counts.json
+context/
