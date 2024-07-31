@@ -1,0 +1,8 @@
+appdirs
+plotly
+cufflinks
+# zenodo-get
+pyyaml
+pandas
+wget
+numba

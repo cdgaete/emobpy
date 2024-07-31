@@ -1,0 +1,12 @@
+appdirs
+plotly
+cufflinks
+zenodo-get
+pyyaml
+pandas
+ipython
+numpy==1.20.3
+wget
+setuptools
+numba
+emobpy==0.5.7
